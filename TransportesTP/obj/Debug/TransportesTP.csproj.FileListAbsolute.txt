@@ -1,0 +1,6 @@
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\bin\Debug\TransportesTP.exe.config
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\bin\Debug\TransportesTP.exe
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\bin\Debug\TransportesTP.pdb
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\obj\Debug\TransportesTP.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\obj\Debug\TransportesTP.exe
+C:\Users\Kim Ochii\Downloads\TransportesTP-20191205T131027Z-001\TransportesTP\TransportesTP\obj\Debug\TransportesTP.pdb
